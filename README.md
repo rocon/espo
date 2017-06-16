@@ -56,4 +56,4 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 
 12. *huomo*
 
-The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influecned by Italian uomo).
+The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
