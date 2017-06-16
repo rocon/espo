@@ -8,7 +8,7 @@ Datetime: 2017-06-16T19:00:00Z
 
 ===
 
-There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 14 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. 
+There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 14 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by Riism.
 
 1. *Espo*
 
@@ -36,19 +36,19 @@ The word *virino* already means woman, and now we also have the word *viriĉo* f
 
 7. *matro*
 
-Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother. The derivatiojns *patriĉo* and *patrino* are therfore not used.
+Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother (both words are dervied from LAtin). The derivatiojns *patriĉo* and *patrino* are therfore not used.
 
 8. *manjo*
 
 Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*.
 
-9. *ŝli* 
+9. *ri* 
 
-Esperanto has no gender-indifferent third-personal singular pronoun, a feature which many languages have. I propose to use the word *ŝli* (he/she) in case where this is needed or desired. This does not deprecate the usage of the existing words *ŝi* (she) and *li* (he), which are perfectly usable to refer to one person of specific gender.
+Esperanto has no gender-indifferent third-personal singular pronoun, a feature which many languages have. I propose to use the word *ri* (he/she) in case where this is needed or desired. This does not deprecate the usage of the existing words *ŝi* (she) and *li* (he), which are perfectly usable to refer to one person of specific gender.
 
-10. *ŝili*
+10. *zi*
 
-The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* - they) sounds a lot like the word for the gender-specific male pronoun (*li*). I propose to use the word *ŝili* instead.
+The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* - they) sounds a lot like the word for the gender-specific male pronoun (*li*). I propose to use the word *zi* instead (influenced by German Sie).
 
 11. *sti/stas*
 
