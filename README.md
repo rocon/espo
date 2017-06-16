@@ -18,9 +18,9 @@ The name **Espo** is not a replacement of the name **Esperanto**: what it names 
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
-3. *-i'*
+3. *-in*
 
-Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo transitive verbs end in *-i*, like in Esperanto, and intransitive verbs end in *-i'*, with an added apostrophe ('). It indicates the missing *-j* semivowel (e.g. *bolij* - to boil), which was still present in Archaic Proto-Esperanto for the intransitive verb category to distinguish them from the transitive verb category. Both endings are pronounced /i/ and only present in the infinitive, dropped when the verb is conjugated. Example: *boli'* - to boil.
+Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo transitive verbs end in *-i*, like in Esperanto, and intransitive verbs end in *-in*, with an added -n. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *bolin* - to boil.
 
 4. *iĉo/-iĉ-*
 
@@ -56,7 +56,7 @@ The verb *esti/estas* covers both the existential usage (to be located somewhere
 
 12. *hi/has + -it*
 
-The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participle (with the -n- and -a dropped out). Examples: *mi has dormit* - compare with *mi estas dorminta*.
+The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participle (with the -a dropped out). Examples: *mi has dormint* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libron* (I have read the book) - compare with *mi estas legita la libron* in the transitive.
 
 13. *ferti*
 
