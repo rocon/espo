@@ -18,9 +18,9 @@ The name **Espo** is not a replacement of the name **Esperanto**: what it names 
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
-3. *-i. verb ending*
+3. *-i'*
 
-Verb roots in Esperanto are either transitive or intransivite, but only the noun category no distinction is made in the verb ending between the two. In Espo transitive verbs end in *-i*, like in Esperanto, and intransitive verbs end in *-i'*, with an added apostrophe ('). It indicates the missing *-j* semivowel (e.g. *bolij* - to boil), which was still present in Archaic Proto-Esperanto for the intransitive verb category to distinguish them from the transitive verb category. Both endings are pronounced /i/ and only present in the infinitive, dropped when the verb is conjugated. Example: *boli'* - to boil.
+Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo transitive verbs end in *-i*, like in Esperanto, and intransitive verbs end in *-i'*, with an added apostrophe ('). It indicates the missing *-j* semivowel (e.g. *bolij* - to boil), which was still present in Archaic Proto-Esperanto for the intransitive verb category to distinguish them from the transitive verb category. Both endings are pronounced /i/ and only present in the infinitive, dropped when the verb is conjugated. Example: *boli'* - to boil.
 
 4. *iĉo/-iĉ-*
 
