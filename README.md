@@ -28,7 +28,7 @@ The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a
 
 5. *geo/ge-.-o*
 
-Even though the prefix *ge-*, derived from the word *geo* is not new, what is new is its usage in the singular instead of the plural. A word like *amiko* (man friend) should not be usd as the root noun anymore, but to express the concept of a gender-indifferent friend we use it with the prefix *ge-* as in *geamiko* (frriend - whether man of woman), and of course the existing usage in the plural (*geamikoj*) is still supported.
+Even though the prefix *ge-*, derived from the word *geo*, is not new, what is new is its usage in the singular instead of the plural. A word like *amiko* (man friend) should not be usd as the root noun anymore, but to express the concept of a gender-indifferent friend we use it with the prefix *ge-* as in *geamiko* (frriend - whether man of woman), and of course the existing usage in the plural (*geamikoj*) is still supported.
 
 6. *muliero*
 
