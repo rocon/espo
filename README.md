@@ -40,7 +40,7 @@ Nearly every language in the world has very concrete words for father and mother
 
 8. *manjo*
 
-Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*.
+Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*, which brings to mind the French equivalent maman.
 
 9. *ri* 
 
