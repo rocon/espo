@@ -8,9 +8,9 @@ Datetime: 2017-06-16T12:00:00Z
 
 ===
 
-There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 12 extra items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. The name **Espo** is not a replacement of the name Esperanto, what it names is the particular usage of Esperanto in conjunction with any of the 12 items in this list.
+There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 12 extra items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. The name **Espo** is not a replacement of the name Esperanto: what it names is the particular usage of Esperanto in conjunction with any of the 12 items in this list.
 
-1. *·*
+1. *middle·dot*
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
