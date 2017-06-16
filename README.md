@@ -56,7 +56,7 @@ The verb *esti/estas* covers both the existential usage (to be located somewhere
 
 12. *hi/has + -it*
 
-The usage of the verb to have (like *havi/havas*) as a auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participle (with the -n- and -a dropped out). Examples: *mi has dormit* - compare with *mi estas dorminta*.
+The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participle (with the -n- and -a dropped out). Examples: *mi has dormit* - compare with *mi estas dorminta*.
 
 13. *ferti*
 
