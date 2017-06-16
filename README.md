@@ -4,7 +4,7 @@ Extended Esperanto
 
 Version: 0.1
 
-Datetime: 2017-06-16T18:00:00Z
+Datetime: 2017-06-16T19:00:00Z
 
 ===
 
@@ -26,7 +26,7 @@ Verb roots in Esperanto are either transitive or intransivite, but unlike the no
 
 The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a masculine noun from which the feminine noun is derived, into a masculine-only noun, e.g., *filiĉo* (son) - compare with *filino* (daughter). This deprecates the usage if *viro* in the form of the *vir* prefix, and so is the usage of masculine root nouns that are also used as the root from the feminine noun is derived.
 
-5. *geo/ge-*
+5. *geo/ge-.-o*
 
 Even though the prefix *ge-*, derived from the word *geo* is not new, what is new is its usage in the singular instead of the plural. A word like *amiko* (man friend) should not be usd as the root noun anymore, but to express the concept of a gender-indifferent friend we use it with the prefix *ge-* as in *geamiko* (frriend - whether man of woman), and of course the existing usage in the plural (*geamikoj*) is still supported.
 
