@@ -18,7 +18,7 @@ The grapheme and phonene *ĥ* in all casesis deprecated in favour of *k*. For th
 
 2. *far*
 
-The preposition *de* is overloaded in meaning in Esperanto. To express the agent of an action (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *far* ().
+The preposition *de* is overloaded in meaning in Esperanto. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro far la aŭtoro* (the book by the author).
 
 3. *separator·hyphen*
 
