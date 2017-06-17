@@ -46,7 +46,7 @@ Nearly every language in the world has very concrete words for father and mother
 
 9. *manjo*
 
-Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*, which brings to mind the French equivalent maman.
+Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*, which brings to mind the French equivalent maman. The word *manjo* is distinct from the word *Manjo* (the diminuative of Maria) with their respective capitalizations.
 
 10. *ri* 
 
@@ -75,4 +75,3 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 16. *huomo*
 
 The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
-
