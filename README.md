@@ -20,7 +20,7 @@ The grapheme and phonene *ĥ* in all casesis deprecated in favour of *k*. For th
 
 The preposition *de* is overloaded in meaning in Esperanto. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro far la aŭtoro* (the book by the author).
 
-3. *separator·hyphen*
+3. *separator-hyphen*
 
 In compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by a hyphen, because the ending is a conjugation which only belongs with the first word. The same goes for correlatives. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes. Examples: *dento-broso* (toothbrush), *ĉiu-taga* (everyday).
 
