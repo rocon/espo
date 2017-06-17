@@ -4,7 +4,7 @@ Extended Esperanto
 
 Version: 0.1
 
-Datetime: 2017-06-17T10:00:00Z
+Datetime: 2017-06-17T12:30:00Z
 
 ===
 
@@ -18,7 +18,7 @@ The grapheme and phonene *ĥ* in all casesis deprecated in favour of *k*. For th
 
 2. *far*
 
-The preposition *de* is overloaded in meaning in Esperanto. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro far la aŭtoro* (the book by the author).
+The preposition *de* is overloaded in meaning in Esperanto. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro* (the book (written) by the author).
 
 3. *separator-hyphen*
 
@@ -56,9 +56,9 @@ Esperanto has no gender-indifferent third-personal singular pronoun, a feature w
 
 The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* - they) sounds a lot like the word for the gender-specific male pronoun (*li*). I propose to use the word *zi* instead (influenced by German sie which is also pronounced as /zi/).
 
-12. *-in*
+12. *-ir*
 
-Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo transitive verbs end in *-i*, like in Esperanto, and intransitive verbs end in *-in*, with an added -n. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *bolin* - to boil.
+Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
 
 13. *sti/stas*
 
@@ -66,7 +66,7 @@ The verb *esti/estas* covers both the existential usage (to be located somewhere
 
 14. *hi/has + -it*
 
-The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participle (with the -a dropped out). Examples: *mi has dormint* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libron* (I have read the book) - compare with *mi estas legita la libron* in the transitive.
+The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participleending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libron* (I have read the book) - compare with *mi estas leginta la libron* in the transitive.
 
 15. *ferti*
 
