@@ -42,7 +42,7 @@ The word *virino* already means woman, and now we also have the word *viriĉo* f
 
 8. *matro*
 
-Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother (both words are dervied from LAtin). The derivatiojns *patriĉo* and *patrino* are therfore not used.
+Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother (both words are dervied from LAtin). The derivations *patriĉo* and *patrino* are therfore not used.
 
 9. *manjo*
 
