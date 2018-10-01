@@ -2,23 +2,23 @@
 
 Extended Esperanto
 
-Version: 0.1
+Version: 0.2
 
-Datetime: 2017-06-17T12:30:00Z
+Date: 2017-10-01
 
 ===
 
-There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism.
+There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism.
 
 Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
-1. *k*
+1. *mandatory case markings*
 
-The grapheme and phonene *ĥ* in all casesis deprecated in favour of *k*. For the handful of words where this might result in ambiguity there are others ways to distinguish the pair. Example: *eko* instead of *eĥo* - and the word *eko* (from common suffix *-ek*) could then be spelled as *ek'* (withh a hyphen replacing the -o ending).
+Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Verb. Idem dito for adjectives that modify the noun. Esperanto also mandates the use of the plural *-j* case marking on all adjectives. This is only necessary if the adjective functions as a noun (if it does not modify a noun).
 
-2. *far*
+2. *di/ekde/far*
 
-The preposition *de* is overloaded in meaning in Esperanto. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro* (the book (written) by the author).
+The preposition *de* is overloaded in meaning in Esperanto. To express the movement from a location (commonly expressed as 'from' in English) the preposition *di* should be used. To express the starting time of an event (commonly expressed as 'since' in English) the preposition *ekde* should be used. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro di la urbo ekde unu jaro* (the book (written) by the author from the city since a year).
 
 3. *separator-hyphen*
 
