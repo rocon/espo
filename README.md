@@ -30,7 +30,7 @@ In compound nouns two or more nouns are joined together, and in case it does not
 
 5. *iĉo/-iĉ-*
 
-The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a masculine noun from which the feminine noun is derived, into a masculine-only noun, e.g., *filiĉo* (son) - compare with *filino* (daughter). This deprecates the usage if *viro* in the form of the *vir* prefix, and so is the usage of masculine root nouns that are also used as the root from the feminine noun is derived.
+The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a masculine noun from which the feminine noun is derived, into a masculine-only noun, e.g., *filiĉo* (son) - compare with *filino* (daughter). This deprecates the usage of *viro* in the form of the *vir* prefix, and so is the usage of masculine root nouns that are also used as the root from the feminine noun is derived.
 
 6. *geo/ge-.-o*
 
