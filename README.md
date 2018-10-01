@@ -14,7 +14,7 @@ Note: the name **Espo** is not a replacement of the name **Esperanto**: what it 
 
 1. *mandatory case markings*
 
-Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Verb. Idem dito for adjectives that modify the noun. Esperanto also mandates the use of the plural *-j* case marking on all adjectives. This is only necessary if the adjective functions as a noun (if it does not modify a noun).
+Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Verb. Idem dito for adjectives that modify the noun. Esperanto also mandates the use of the plural *-j* case marking on all adjectives that modify a noun int he plural. This is only necessary if the adjective functions as a noun (if it does not modify a noun).
 
 2. *di/ekde/far*
 
