@@ -18,7 +18,7 @@ Esperanto mandates the use of the accusative *-n* case marking on all nouns. Sin
 
 2. *di/ekde/far*
 
-The preposition *de* is overloaded in meaning in Esperanto. To express the movement from a location (commonly expressed as 'from' in English) the preposition *di* should be used. To express the starting time of an event (commonly expressed as 'since' in English) the preposition *ekde* should be used. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro di la urbo ekde unu jaro* (the book (written) by the author from the city since a year).
+The preposition *de* is overloaded in meaning in Esperanto: it should only be used in the meaning of the preposition 'of' in English. To express the movement from a location (commonly expressed as 'from' in English) the preposition *di* should be used. To express the starting time of an event (commonly expressed as 'since' in English) the preposition *ekde* should be used. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro di la urbo ekde unu jaro* (the book (written) by the author from the city since a year).
 
 3. *separator-hyphen*
 
