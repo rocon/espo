@@ -1,4 +1,4 @@
-# Espo
+# Esporanto
 
 Extended Esperanto
 
@@ -10,7 +10,7 @@ Date: 2017-10-01
 
 There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism.
 
-Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
+Note: the name **Esporanto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
 1. *mandatory case markings*
 
@@ -58,7 +58,7 @@ The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* 
 
 12. *-ir*
 
-Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
+Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Esperanto intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
 
 13. *sti/stas*
 
