@@ -1,4 +1,4 @@
-# Esporanto
+# Espranto
 
 Extended Esperanto
 
@@ -10,7 +10,7 @@ Date: 2017-10-01
 
 There have been a number of proposed reforms of Esperanto since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism.
 
-Note: the name **Esporanto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
+Note: the name **Espranto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
 1. *mandatory case markings*
 
@@ -66,7 +66,8 @@ The verb *esti/estas* covers both the existential usage (to be located somewhere
 
 14. *hi/has + -it*
 
-The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participleending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libron* (I have read the book) - compare with *mi estas leginta la libron* in the transitive.
+The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corr
+nding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participleending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libron* (I have read the book) - compare with *mi estas leginta la libron* in the transitive.
 
 15. *ferti*
 
