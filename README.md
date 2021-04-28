@@ -8,45 +8,41 @@ There have been a number of proposed reforms of [Esperanto](https://en.wikipedia
 
 Note: the name **Espranto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
-0. *un*
+1. *un*
 
 Unlike Esperanto, Espranto uses the indefinite article *un* in front of a noun: *un domo* (a house).
 
-1. *mandatory case markings*
+2 *mandatory case markings*
 
 Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Verb. Idem dito for adjectives that modify the noun. Esperanto also mandates the use of the plural *-j* case marking on all adjectives that modify a noun int he plural. This is only necessary if the adjective functions as a noun (if it does not modify a noun).
 
-2. *di/ekde/far*
+3. *di/ekde/far*
 
 The preposition *de* is overloaded in meaning in Esperanto: it should only be used in the meaning of the preposition 'of' in English. To express the movement from a location (commonly expressed as 'from' in English) the preposition *di* should be used. To express the starting time of an event (commonly expressed as 'since' in English) the preposition *ekde* should be used. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro di la urbo ekde un jaro* (the book (written) by the author from the city since a year).
 
-3. *separator-hyphen*
+4. *separator-hyphen*
 
 In compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by a hyphen, because the ending is a conjugation which only belongs with the first word. The same goes for correlatives. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes. Examples: *dento-broso* (toothbrush), *ĉiu-taga* (everyday).
 
-4. *middle·dot*
+5. *middle·dot*
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
-5. *iĉo/-iĉ-*
+6. *iĉo/-iĉ-*
 
 The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a masculine noun from which the feminine noun is derived, into a masculine-only noun, e.g., *filiĉo* (son) - compare with *filino* (daughter). This deprecates the usage of *viro* in the form of the *vir* prefix, and so is the usage of masculine root nouns that are also used as the root from the feminine noun is derived.
 
-6. *geo/ge-.-o*
+7. *geo/ge-.-o*
 
 Even though the prefix *ge-*, derived from the word *geo*, is not new, what is new is its usage in the singular instead of the plural. A word like *amiko* (man friend) should not be used as the root noun anymore, but to express the concept of a gender-indifferent friend we use it with the prefix *ge-* as in *geamiko* (friend - whether man of woman), and of course the existing usage in the plural (*geamikoj*) is still supported.
 
-7. *muliero*
+8. *muliero*
 
 The word *virino* already means woman, and now we also have the word *viriĉo* for man, but the words for man and woman are basic words in nearly every language that they deserve their own separate word. I propose the word *muliero* for woman, and to keep the word *viro* for man (both these words are derived from Latin). To keep using the word *viro* in this way is then not an exception to the rule that masculine base nouns from which feminine nouns are derived have been deprecated, since we do not use those two masculine and feminine derived words anymore.
 
-8. *matro*
+9. *matro/manjo*
 
-Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother (both words are dervied from LAtin). The derivations *patriĉo* and *patrino* are therfore not used.
-
-9. *manjo*
-
-Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*, which brings to mind the French equivalent maman. The word *manjo* is distinct from the word *Manjo* (the diminuative of Maria) with their respective capitalizations.
+Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro*, to which we add the word *matro* for mother (both words are dervied from LAtin). The derivations *patriĉo* and *patrino* are therfore not used. Since we have a new word for mother (*matro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *manjo*, which brings to mind the French equivalent maman. The word *manjo* is distinct from the word *Manjo* (the diminuative of Maria) with their respective capitalizations.
 
 10. *ri* 
 
