@@ -58,7 +58,7 @@ Verb roots in Esperanto are either transitive or intransivite, but unlike the no
 
 13. *sti/stas*
 
-The verb *esti/estas* covers both the existential usage (to be located somewhere) and the predicative usage (to be something). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) for the predicative usage. Examples: *mi estas en la domo* (I am home), *ĝi stas domo* (it is a house).
+The verb *esti/estas* covers both the existential usage (to be located somewhere), the predicative usage (to be something) and the passive usage (to be done something to). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) as a new auxiliary verb for the predicative and passive usage. Examples: *mi estas en la domo* (I am home), *ĝi stas domo* (it is a house).
 
 14. *hi/has + -it*
 
