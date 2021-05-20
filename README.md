@@ -1,12 +1,12 @@
-# Esp'ranto
+# Espranto
 
 An Extension of Esperanto
 
 ===
 
-There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Esp'ranto better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
+There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Espranto better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
 
-Note: the name **Esp'ranto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
+Note: the name **Espranto** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
 1. *un*
 
