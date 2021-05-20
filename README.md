@@ -61,11 +61,11 @@ Verb roots in Esperanto are either transitive or intransivite, but unlike the no
 
 The verb *esti/estas* covers both the existential usage (to be located somewhere), the predicative usage (to be something) and the passive usage (to be done something to). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) as a new auxiliary verb for the predicative and passive usage. Examples: *mi estas en la domo* (I am home), *ĝi stas un domo* (it is a house).
 
+13B. *stos/stus*
+
 14. *hi/has/hit + -it*
 
 The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participleending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libro* (I have read the book) - compare with *mi estas leginta la libro* in the transitive.
-
-14B. *sos/sus*
 
 15. *ferti*
 
