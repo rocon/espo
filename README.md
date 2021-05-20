@@ -1,6 +1,6 @@
 # Espranto
 
-A Dialect of Esperanto
+An Extension of Esperanto
 
 ===
 
