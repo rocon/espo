@@ -57,7 +57,7 @@ The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* 
 
 Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Esperanto intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
 
-13. *sti/stas/stis*
+13. *sti/stas/stis/stu*
 
 The verb *esti/estas* covers both the existential usage (to be located somewhere), the predicative usage (to be something) and the passive usage (to be done something to). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) as a new auxiliary verb for the predicative and passive usage. Examples: *mi estas en la domo* (I am home), *ĝi stas un domo* (it is a house).
 
