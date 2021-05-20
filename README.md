@@ -10,7 +10,7 @@ Note: the name **Espo** is not a replacement of the name **Esperanto**: what it 
 
 1. *un*
 
-Unlike Esperanto, Esp'ranto uses the indefinite article *un* in front of a noun: *un domo* (a house).
+Unlike Esperanto, Espo uses the indefinite article *un* in front of a noun: *un domo* (a house).
 
 2. *mandatory case markings*
 
