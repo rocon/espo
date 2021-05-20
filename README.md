@@ -40,6 +40,7 @@ Even though the prefix *ge-*, derived from the word *geo*, is not new, what is n
 
 The word *virino* already means woman, and now we also have the word *viriĉo* for man, but the words for man and woman are basic words in nearly every language that they deserve their own separate word. I propose the word *gino* (derived from Greek _gyn-_) for woman, and to keep the word *viro* (derived from Latin) for man. To keep using the word *viro* in this way is then not an exception to the rule that masculine base nouns from which feminine nouns are derived have been deprecated, since we do not use those two masculine and feminine derived words anymore.
 
+9a. *parento*
 9. *mutro/munjo*
 
 Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro* (derived from Latin), to which we add the word *mutro* for mother (derived from German _Mutter_). The derivations *patriĉo* and *patrino* are therfore not used. Since we have a new word for mother (*mutro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *munjo*.
