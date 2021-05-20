@@ -51,7 +51,7 @@ Esperanto has no gender-indifferent third-personal singular pronoun, a feature w
 
 11. *zi*
 
-The word the gender-indifferent third-person plural pronoun in Esperanto (*ili* - they) sounds a lot like the word for the gender-specific male pronoun (*li*). I propose to use the word *zi* instead (influenced by German sie which is also pronounced as /zi/).
+possessive 's
 
 12. *-ir*
 
