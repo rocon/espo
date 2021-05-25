@@ -28,7 +28,7 @@ In compound words when two or more words are joined together, and in case the en
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
-6a. *no-/mal-*
+6a. *mot-/mal-*
 
 6. *iĉo/-iĉ-*
 
