@@ -55,6 +55,13 @@ Esperanto has no gender-indifferent third-personal singular pronoun, a feature w
 
 possessive 's
 
+11b. *su*
+su lundo -> lundon
+11c. *dan*
+dan la domo -> al en la domo / en la domon
+11d. je + -e
+je hejme -> hejmen
+
 12. *-ir*
 
 Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Esperanto intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
@@ -78,5 +85,3 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
 
 16b. *nej*
-
-16c. *na*
