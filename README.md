@@ -42,7 +42,7 @@ The word *iĉo* is used as the suffix *-iĉ-*, which turns an epicene noun, or a
 
 Even though the prefix *ge-*, derived from the word *geo*, is not new, what is new is its usage in the singular instead of the plural. A word like *amiko* (man friend) should not be used as the root noun anymore, but to express the concept of a gender-indifferent friend we use it with the prefix *ge-* as in *geamiko* (friend - whether man of woman), and of course the existing usage in the plural (*geamikoj*) is still supported. The word *geamiko* also has a special shortened version: *miko*.
 
-8. *gino*
+8. *femo*
 
 The word *virino* already means woman, and now we also have the word *viriĉo* for man, but the words for man and woman are basic words in nearly every language that they deserve their own separate word. I propose the word *gino* (derived from Greek _gyn-_) for woman, and to keep the word *viro* (derived from Latin) for man. To keep using the word *viro* in this way is then not an exception to the rule that masculine base nouns from which feminine nouns are derived have been deprecated, since we do not use those two masculine and feminine derived words anymore.
 
