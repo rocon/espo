@@ -90,4 +90,4 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 
 16b. *nej*
 16c. *ĉi·*
-16d. *·ajn*
+16d. *-ajn*
