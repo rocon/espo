@@ -24,11 +24,15 @@ The preposition *de* is overloaded in meaning in Esperanto: it should only be us
 
 In compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by a hyphen, because the ending is a conjugation which only belongs with the first word. The same goes for correlatives. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes. Examples: *dento-broso* (toothbrush), *ĉiu-taga* (everyday).
 
+4/5. *compound words*
+*'* with 1 consonant
+*o-* with 2 more more consonants
+*
 5. *middle·dot*
 
 In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
-6a. *mut-/mal-*
+6a. *no-/mal-*
 
 6. *iĉo/-iĉ-*
 
@@ -85,3 +89,4 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
 
 16b. *nej*
+16c. *ĉi·*
