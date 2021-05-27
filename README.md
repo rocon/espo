@@ -90,3 +90,4 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 
 16b. *nej*
 16c. *Der / Ti ...*
+16d. *kvi..*
