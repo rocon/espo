@@ -93,4 +93,3 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 16d. *kvi..*
 16e. *na/jo*
 16f. *vas/vis*
-16g. *na/jo*
