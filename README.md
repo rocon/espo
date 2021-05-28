@@ -88,7 +88,7 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 
 The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
 
-16b. *nej*
+16b. *nej/hej*
 16c. *Der / Ti ...*
 16d. *kvi..*
 16e. *na/jo*
