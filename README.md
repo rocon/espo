@@ -24,6 +24,8 @@ Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* en
 
 Esperanto has no gender-indifferent third-personal singular pronoun, a feature which many languages have. I propose to use the word *ri* (he/she) in case where this is needed or desired. This does not deprecate the usage of the existing words *ŝi* (she) and *li* (he), which are perfectly usable to refer to one person of specific gender.
 
+Impersonal verbs are expressed wit the *ti ...* verb construction: *ti pluvas* - it rains.
+
 7. *Verbs*
 
 Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Note that some verbs can be used both ways: *danci(r)*. Examples: *iri* - to go, *legir* - to read.
@@ -35,6 +37,8 @@ The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic
 The future and pas future tenses are expressed wit the auxiliary *sti* verb: *stos/stus* plus the infinitive of the actual verb (and not as *-os/-us* declensions on the same verb). Examples: *mi stos legi* - I will read, *mi stus legi* - I would read.
 
 The near (past) future, usually expressed in English with the word *about*, is expressed in Espo with the auxiliary *vas/vis* verbs. Examples: *mi vas legi* - I am about to read, *mi vis legi* - I was about about to read,
+
+Existential verbs are expressed wit the *der ...* verb construction: *der estas un domo* - there is a house.
 
 3. *di/ekde/far*
 
@@ -91,6 +95,5 @@ The verb *farti* sounds really awkward in English. Since English is such a preva
 The noun *homo* has a well-established meaning in many languages, therefore I propose to replace it with the noun *huomo* (influenced by Italian uomo).
 
 16b. *nej/hej*
-16c. *Der / Ti ...*
 16d. *kvi..*
 16e. *na/jo*
