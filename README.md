@@ -44,11 +44,15 @@ Existential verbs are expressed wit the *der ...* verb construction: *der estas 
 
 In Esperanto direction on adverbs is expressed with the *-n* ending. In Espo this is replaced with the *je* preposition: *mi iras je hejme*  - I go home.
 
-8. *Compound Words*
+11. *Compound Words*
 
 In Esperanto compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category.
 
 In Espo compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by an apostrophe (the same goes for correlatives), because the ending is a conjugation which only belongs with the first word. When the -o is dropped (when the word ends in a vowel or only one consonant, except for -h), the words are separated with a hyphen. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes, which get the middle·dot (Unicode character U+00B7). Examples: *dento'broso* (toothbrush), *ĉiu'taga* (everyday), *vel-ŝipo (sailing vessel)* - *kant-birdo (song bird)*, *al·veni* (to arrive), *dek·un* (eleven).
+
+13. *Direction*
+Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
+
 
 3. *di/ekde/far*
 
