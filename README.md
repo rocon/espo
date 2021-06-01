@@ -40,21 +40,19 @@ The near (past) future, usually expressed in English with the word *about*, is e
 
 Existential verbs are expressed wit the *der ...* verb construction: *der estas un domo* - there is a house.
 
+8. *Adverbs*
+
+In Esperanto direction on adverbs is expressed with the *-n* ending. In Espo this is replaced with the *je* preposition: *mi iras je hejme*  - I go home.
+
+8. *Compound Words*
+
+In Esperanto compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category.
+
+In Espo compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by an apostrophe (the same goes for correlatives), because the ending is a conjugation which only belongs with the first word. When the -o is dropped (when the word ends in a vowel or only one consonant, except for -h), the words are separated with a hyphen. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes, which get the middle·dot (Unicode character U+00B7). Examples: *dento'broso* (toothbrush), *ĉiu'taga* (everyday), *vel-ŝipo (sailing vessel)* - *kant-birdo (song bird)*, *dek·un* (eleven).
+
 3. *di/ekde/far*
 
 The preposition *de* is overloaded in meaning in Esperanto: it should only be used in the meaning of the preposition 'of' in English. To express the movement from a location (commonly expressed as 'from' in English) the preposition *di* should be used. To express the starting time of an event (commonly expressed as 'since' in English) the preposition *ekde* should be used. To express the agent of something (commonly expressed as 'by'in English) the preposition *far* should be used. Example: *la libro (verkita) far la aŭtoro di la urbo ekde un jaro* (the book (written) by the author from the city since a year).
-
-4. *separator-hyphen*
-
-In compound words when two or more words are joined together, and in case the ending of the first word (like -o) is not dropped, then the words should always be separated by a hyphen, because the ending is a conjugation which only belongs with the first word. The same goes for correlatives. This is not necessary for the unconjugated, closed category word classes like prepositions, numerals, prefixes and suffixes. Examples: *dento-broso* (toothbrush), *ĉiu-taga* (everyday).
-
-4/5. *compound words*
-*'* with 1 consonant
-*o-* with 2 more more consonants
-*
-5. *middle·dot*
-
-In compound nouns two or more nouns are joined together, and in case it does not result in a hard-to-pronounce consonant cluster, the -o ending in between the nouns is dropped. However, this results in words having to be mentally 'parsed' for potential boundaries between the first and the second noun, which is not immediately obvious because of the missing -o ending, and because of the fact that nouns (unlike prepositions and prefixes) are an open-ended word category. The middle dot (Unicode character U+00B7), unlike the hyphen (-) which is sometimes used in Esperanto for the same purpose, is an unobtrusive way to give the needed visual distinction with such compound nouns. Examples: *vel·ŝipo (sailing vessel)* - *kant·birdo (song bird)*.
 
 6a. *no-/mal-*
 
@@ -83,8 +81,6 @@ possessive 's
 su lundo -> lundon
 11c. *dan*
 dan la domo -> al en la domo / en la domon
-11d. je + -e
-je hejme -> hejmen
 
 15. *ferti*
 
