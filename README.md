@@ -16,9 +16,25 @@ Unlike Esperanto, Espo uses the indefinite article *un* in front of a noun: *un 
 
 Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Subject, or if the Subject is missing: *mi amas vi*; *vin mi amas*, *dankon*.
 
-2. *Adjectives*
+3. *Adjectives*
 
 Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* ending. This is only necessary if the adjective functions as a noun (if it does not modify a noun): *la bruna hundoj*; *la brunaj*.
+
+5. *Pronouns*
+
+Esperanto has no gender-indifferent third-personal singular pronoun, a feature which many languages have. I propose to use the word *ri* (he/she) in case where this is needed or desired. This does not deprecate the usage of the existing words *ŝi* (she) and *li* (he), which are perfectly usable to refer to one person of specific gender.
+
+7. *Verbs*
+
+Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Espo intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Note that some verbs can be used both ways: *danci(r)*. Examples: *iri* - to go, *legir* - to read.
+
+The verb *esti/estas* covers both the existential usage (to be located somewhere), the predicative usage (to be something) and the passive usage (to be done something to). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) as a new auxiliary verb for the predicative and passive usage. The past tense (*stis*) and imperative (*stu*) follow the established patterns. Examples: *mi estas en la urbo* (I am home), *ĝi stas un domo* (it is a house).
+
+The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has/his* (with the -av- dropped out) in combination with a generic passive participle ending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Idem dito for *sti*: *stit*. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libro* (I have read the book) - compare with *mi estas leginta la libro* in the transitive.
+
+The future and pas future tenses are expressed wit the auxiliary *sti* verb: *stos/stus* plus the infinitive of the actual verb (and not as *-os/-us* declensions on the same verb). Examples: *mi stos legi* - I will read, *mi stus legi* - I would read.
+
+The near (past) future, usually expressed in English with the word *about*, is expressed in Espo with the auxiliary *vas/vis* verbs. Examples: *mi vas legi* - I am about to read, *mi vis legi* - I was about about to read,
 
 3. *di/ekde/far*
 
@@ -55,10 +71,6 @@ The word *virino* already means woman, and now we also have the word *viriĉo* f
 
 Nearly every language in the world has very concrete words for father and mother, and these words are used to such an extant that they too deserve separate lexical entries. The existing word for father is *patro* (derived from Latin), to which we add the word *mutro* for mother (derived from German _Mutter_). The derivations *patriĉo* and *patrino* are therfore not used. Since we have a new word for mother (*mutro*), and we already have a word for daddy (*paĉjo*) we should also have a new word for mommy: *munjo*.
 
-10. *ri* 
-
-Esperanto has no gender-indifferent third-personal singular pronoun, a feature which many languages have. I propose to use the word *ri* (he/she) in case where this is needed or desired. This does not deprecate the usage of the existing words *ŝi* (she) and *li* (he), which are perfectly usable to refer to one person of specific gender.
-
 11. *zi*
 
 possessive 's
@@ -69,20 +81,6 @@ su lundo -> lundon
 dan la domo -> al en la domo / en la domon
 11d. je + -e
 je hejme -> hejmen
-
-12. *-ir*
-
-Verb roots in Esperanto are either transitive or intransivite, but unlike the noun category no distinction is made in the verb ending between the two. In Esperanto intransitive verbs end in *-i*, like in Esperanto, and transitive verbs end in *-ir*, with an added -r. Both endings are only present in the infinitive, and dropped when the verb is conjugated. Example: *legir* - to read.
-
-13. *sti/stas/stis/stu/stit*
-
-The verb *esti/estas* covers both the existential usage (to be located somewhere), the predicative usage (to be something) and the passive usage (to be done something to). I propose splitting this verb up in two verbs: the verb *esti/estas* keeps being used for the existential usage, the verb *sti/stas* (with the e- dropped out) as a new auxiliary verb for the predicative and passive usage. Examples: *mi estas en la domo* (I am home), *ĝi stas un domo* (it is a house).
-
-13B. *stos/stus*
-
-14. *hi/has/hit + -it*
-
-The usage of the verb to have (like *havi/havas*) as an auxiliary verb + generic passive participle to express the perfect tense is very widespread amongst Western-European languages. It is easier to understand and use than the corresponding Esperanto grammatical usage of the conjugated verb to be (*esti/estas*) + a tense-carrying active participle which is also an adjective. My proposal is to introduce a new verb *hi/has* (with the -av- dropped out) in combination with a generic passive participleending in *-it* (with the -n- and the -a dropped out) , irrespective of the transitivity of the verb. Examples: *mi has dormit* (I have slept) - compare with *mi estas dorminta* in the intransitive, and *mi has legit la libro* (I have read the book) - compare with *mi estas leginta la libro* in the transitive.
 
 15. *ferti*
 
@@ -96,4 +94,3 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 16c. *Der / Ti ...*
 16d. *kvi..*
 16e. *na/jo*
-16f. *vas/vis*
