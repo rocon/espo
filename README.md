@@ -1,20 +1,24 @@
 # Espo
 
-An Extension of Esperanto
+An Extension and Dialect of Esperanto
 
 ===
 
-There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine for automated interlinguistic purposes, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Espo better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
+There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine as a springboard language, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items that do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Espo better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
 
 Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
-1. *un*
+1. *Articles*
 
 Unlike Esperanto, Espo uses the indefinite article *un* in front of a noun: *un domo* (a house).
 
-2. *mandatory case markings*
+2. *Nouns*
 
-Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Verb. Idem dito for adjectives that modify the noun. Esperanto also mandates the use of the plural *-j* case marking on all adjectives that modify a noun int he plural. This is only necessary if the adjective functions as a noun (if it does not modify a noun).
+Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Subject, or if the Subject is missing: *mi amas vi*; *vin mi amas*, *dankon*.
+
+2. *Adjectives*
+
+Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* ending. This is only necessary if the adjective functions as a noun (if it does not modify a noun): *la bruna hundoj*; *la brunaj*.
 
 3. *di/ekde/far*
 
