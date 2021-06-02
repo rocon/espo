@@ -120,6 +120,7 @@ For geographical names of like continents and oceans, which are not limited to t
 
 Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and two sentences can then be separated with a semicolon (*;*).
 
-16. *Schwa insertion*
+16. *Sound insertion*
 
-Words with unusual consonant combinations can be pronounced by inserting a schwa in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
+Words with unusual consonant combinations can be pronounced by inserting a schwa (*ə*) in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
+Words with two consecutive vowels where the first one is an *a* can be pronounced by inserting a glottal stop (*ʔ*) in between two such vowels. Example: *ĥaoso - /xa'ʔo̞so̞/*.
