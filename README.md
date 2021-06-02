@@ -123,4 +123,5 @@ Sentences do not need to start with a Capitalized letter and end in a full stop 
 16. *Sound insertion*
 
 Words with unusual consonant combinations can be pronounced by inserting a schwa (*ə*) in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
+
 Words with two consecutive vowels where the first one is an *a* can be pronounced by inserting a glottal stop (*ʔ*) in between two such vowels. Example: *ĥaoso - /xa'ʔo̞so̞/*.
