@@ -92,18 +92,25 @@ The interjection words *hej* and *nej* are used instead of *he* and *ne*.
 13. *Direction*
  ĝ
 Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
-
 14. **
 
-15. **
+15. *Foreign names*
+
+Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
+For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Australio, Oceanio, Pacifiko*.
 
 16. *Input method*
 
-Next to traditional method of appending an *-h*, or the method which PIV employs (appending *-x*) the preferred input method for Espo is to use all four unused letters (q, x, w, y) as follows:
-sx --> ŝ
-cx --> ĉ
-jy --> ĵ
-gy --> ĝ
-qh --> ĥ
-uw --> ŭ
+Next to traditional method of appending an *-h*, or the method which PIV employs (appending *-x*), the preferred input method for Espo is to use all four unused letters (q, x, w, y), as follows:
 
+sx --> ŝ
+
+cx --> ĉ
+
+jy --> ĵ
+
+gy --> ĝ
+
+qh --> ĥ
+
+uw --> ŭ
