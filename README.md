@@ -4,9 +4,9 @@ An Extension and Dialect of Esperanto
 
 ===
 
-There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine as a springboard language, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 14 new items that add some grammar but do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Espo better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
+There have been a number of proposed reforms of [Esperanto](https://en.wikipedia.org/wiki/Esperanto) since its inception, which deal with its perceived deficiencies. But the language itself is fine as a springboard language, and only needs a few additions, not a replacement of any kind. Therefore just as Zamenhof summarized the grammar of Esperanto in just 16 rules, I propose just 16 new items (and one orthographay item) that add some grammar but do not replace or modify any existing word in its current vocabulary. When these words are used they deprecate the usage of existing words in the sense that these are the preferred words, but this is not the same as saying those existing words cannot not be used anymore. Some of these proposals have been influenced by current tendencies in Esperanto like Riism. These changes also align Espo better with the features of [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) (features characteristic of European languages), so it should feel even more natural to speakers of European languages.
 
-Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 14 items in the list shown below.
+Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
 0. *Input method*
 
@@ -111,15 +111,15 @@ The interjection words *hej* and *nej* are used instead of *he* and *ne*.
 
 Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
 
-14. *Questions*
-
-In question sentences startin with *ĉu* a phrase can be moved after it to put special emphasis on it: .
-
-15. *Foreign names*
+14. *Foreign names*
 
 Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
 For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Australio, Oceanio, Pacifiko*.
 
-16. *Sentences*
+15. *Sentences*
 
-Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and the dot can then be replaced with a semicolon (*;*).
+Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and two sentences can then be separated with a semicolon (*;*).
+
+16. *Schwa insertion*
+
+Words with unusual consonant combinations can be pronounced by inserting a schwa in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
