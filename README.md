@@ -24,6 +24,8 @@ Next to traditional method of appending an *-h*, or the method which PIV employs
 
 *uw --> ŭ*
 
+The input method for the middle·dot is a dot: *prefixed.word*.
+
 1. *Articles*
 
 Unlike Esperanto, Espo uses the indefinite article *un* in front of a noun: *un domo* (a house).
@@ -109,7 +111,15 @@ The interjection words *hej* and *nej* are used instead of *he* and *ne*.
 
 Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
 
-14. *Foreign names*
+14. *Questions*
+
+In question sentences startin with *ĉu* a phrase can be moved after it to put special emphasis on it: .
+
+15. *Foreign names*
 
 Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
 For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Australio, Oceanio, Pacifiko*.
+
+16. *Sentences*
+
+Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and the dot can then be replaced with a semicolon (*;*).
