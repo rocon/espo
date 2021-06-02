@@ -106,7 +106,7 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 The interjection words *hej* and *nej* are used instead of *he* and *ne*.
 
 13. *Direction*
- ĝ
+
 Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
 
 14. *Foreign names*
