@@ -85,7 +85,7 @@ In Esperanto direction on adverbs is expressed with the *-n* ending. In Espo thi
 
 9. *Correlatives*
 
-The relative correlatives (*kvi-*) are distinct from the interrogative correlatives (*ki-*).
+The interrogative correlatives (*kvi-*) are distinct from the relative correlatives (*ki-*).
 
 10. *Possessive*
 
