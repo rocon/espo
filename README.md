@@ -26,6 +26,8 @@ Next to traditional method of appending an *-h*, or the method which PIV employs
 
 The input method for the middle·dot is a dot: *prefixed.word*.
 
+Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and two sentences can then be separated with a semicolon (*;*).
+
 Words with unusual consonant combinations can be pronounced by inserting a schwa (*ə*) in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
 
 Words with two consecutive vowels where the first one is an *a* can be pronounced by inserting a glottal stop (*ʔ*) in between two such vowels. Example: *ĥaoso - /xa'ʔo̞so̞/*.
@@ -124,6 +126,5 @@ For geographical names of like continents and oceans, which are not limited to t
 
 Simple yes-no questions can be formed without the question particle *ĉu* by swapping the subject and the predicate verb: *Vas vi helpi mi? - Are you about to help me?*.
 
-16. *Sentences*
-
-Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and two sentences can then be separated with a semicolon (*;*).
+16. *DLT*
+Espo can be extended with the use of constructs described in the [https://en.wikipedia.org/wiki/Distributed_Language_Translation](Distributed Language Translation) (DLT) project, as long as they do not clash with existing features of Esp(erant)o. So *li* cannot be redefined as epicene pronoun (use *ri* instead) and *hi* cannot be used as masculine pronoun (in Espo it is the verb infinitive used in constructing the perfect tense). But using *ke* after a preposition governing subordinate conjunction is recommended.
