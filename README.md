@@ -90,5 +90,20 @@ The noun *homo* has a well-established meaning in many languages, therefore I pr
 The interjection words *hej* and *nej* are used instead of *he* and *ne*.
 
 13. *Direction*
-14. 
+ ĝ
 Movement to an object is expressed with the *al* preposition (not with the accusitave *-n* case): *la kato saltis al·sur la tablo* - the cat jumped onto the table.
+
+14. **
+
+15. **
+
+16. *Input method*
+
+Next to traditional method of appending an *-h*, or the method which PIV employs (appending *-x*) the preferred input method for Espo is to use all four unused letters (q, x, w, y) as follows:
+sx --> ŝ
+cx --> ĉ
+jy --> ĵ
+gy --> ĝ
+qh --> ĥ
+uw --> ŭ
+
