@@ -8,7 +8,7 @@ There have been a number of proposed reforms of [Esperanto](https://en.wikipedia
 
 Note: the name **Espo** is not a replacement of the name **Esperanto**: what it names is the particular usage of Esperanto in conjunction with any of the 16 items in the list shown below.
 
-0. *Input method*
+0. *Orthography and pronunciation*
 
 Next to traditional method of appending an *-h*, or the method which PIV employs (appending *-x*), the preferred input method for Espo is to use all four unused letters (q, x, w, y), as follows:
 
@@ -25,6 +25,10 @@ Next to traditional method of appending an *-h*, or the method which PIV employs
 *uw --> ŭ*
 
 The input method for the middle·dot is a dot: *prefixed.word*.
+
+Words with unusual consonant combinations can be pronounced by inserting a schwa (*ə*) in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
+
+Words with two consecutive vowels where the first one is an *a* can be pronounced by inserting a glottal stop (*ʔ*) in between two such vowels. Example: *ĥaoso - /xa'ʔo̞so̞/*.
 
 1. *Articles*
 
@@ -116,12 +120,10 @@ Movement to an object is expressed with the *al* preposition (not with the accus
 Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
 For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Australio, Oceanio, Pacifiko*.
 
-15. *Sentences*
+15. *Questions*
+
+Simple yes-no questions can be formed without the question particle *ĉu* by swapping the subject and the predicate verb: *Vas vi helpi mi? - Are you about to help me?*.
+
+16. *Sentences*
 
 Sentences do not need to start with a Capitalized letter and end in a full stop (*.*): the capitalization of the first letter is optional, and two sentences can then be separated with a semicolon (*;*).
-
-16. *Sound insertion*
-
-Words with unusual consonant combinations can be pronounced by inserting a schwa (*ə*) in between two such consonants. Example: *ftizo - /fə'tizo̞/*.
-
-Words with two consecutive vowels where the first one is an *a* can be pronounced by inserting a glottal stop (*ʔ*) in between two such vowels. Example: *ĥaoso - /xa'ʔo̞so̞/*.
