@@ -44,6 +44,8 @@ Esperanto mandates the use of the accusative *-n* case marking on all nouns. Sin
 
 Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* ending. This is only necessary if the adjective functions as a noun (if it does not modify a noun): *la bruna hundoj*; *la brunaj*.
 
+Use the adjective in Espo instead of the adverb (like in Esperanto) in constructs like: *ti stas pluvanta*  - it is raining.
+
 4. *Affixes*
 
 The prefix *no-* is used instead of *mal-* to express opposities: *nolonga* (short).
