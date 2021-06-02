@@ -129,3 +129,5 @@ Simple yes-no questions can be formed without the question particle *ĉu* by swa
 16. *DLT*
 
 Espo can be extended with the use of constructs described in the [Distributed Language Translation](https://en.wikipedia.org/wiki/Distributed_Language_Translation) (DLT) project, as long as they do not clash with existing features of Esp(erant)o. So *li* cannot be redefined as epicene pronoun (use *ri* instead) and *hi* cannot be used as masculine pronoun (in Espo it is the verb infinitive used in constructing the perfect tense). But using *ke* after a preposition governing subordinate conjunction is recommended.
+
+See the archived [La interlingvo de DLT](https://web.archive.org/web/20051128210432/http://ourworld.compuserve.com/Homepages/profcon/e_dlt2.htm) web page for the details [in Esperanto].
