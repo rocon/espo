@@ -46,6 +46,8 @@ Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* en
 
 Use the adjective in Espo instead of the adverb (like in Esperanto) in constructs like: *ti stas pluvanta*  - it is raining.
 
+Adjectives precede the word they modifiy. If they follow the word they modify then the adjective gets the focus.
+
 4. *Affixes*
 
 The prefix *no-* is used instead of *mal-* to express opposities: *nolonga* (short).
@@ -86,6 +88,8 @@ Existential verbs are expressed wit the *der ...* verb construction: *der estas 
 8. *Adverbs*
 
 In Esperanto direction on adverbs is expressed with the *-n* ending. In Espo this is replaced with the *je* preposition: *mi iras je hejme*  - I go home.
+
+Adverbs follow the word they modifiy. If they precede the word they modify then the adverb gets the focus.
 
 9. *Correlatives*
 
