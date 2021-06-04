@@ -126,11 +126,11 @@ Movement to an object is expressed with the *al* preposition (not with the accus
 14. *Foreign names*
 
 Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
-For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Australio, Oceanio, Pacifiko*.
+For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Aŭstralio, Oceanio, Pacifiko*.
 
-15. *Questions*
+15. *?*
 
-Simple yes-no questions can be formed without the question particle *ĉu* by swapping the subject and the predicate verb: *Vas vi helpi mi? - Are you about to help me?*.
+?
 
 16. *DLT*
 
