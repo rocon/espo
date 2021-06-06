@@ -38,15 +38,13 @@ Unlike Esperanto, Espo uses the indefinite article *un* in front of a noun: *un 
 
 2. *Nouns*
 
-Esperanto mandates the use of the accusative *-n* case marking on all nouns. Since in common practice the word order is always Subject-Verb-Object (SVO), the case marking is only necessary when the Object is moved to a position before the Subject, or if the Subject is missing: *mi amas vi*; *vin mi amas*, *dankon*.
+Esperanto mandates the use of the accusative *-n* case marking on all nouns. In Espo the case marking is only necessary when the Object is moved to a position before the Subject, or if the Subject is missing: *mi amas vi*; *vin mi amas*, *dankon*.
 
 3. *Adjectives*
 
 Adjectives that modify the noun do not take the plural *-j-* or accusive *-n* ending. This is only necessary if the adjective functions as a noun (if it does not modify a noun): *la bruna hundoj*; *la brunaj*.
 
 Use the adjective in Espo instead of the adverb (like in Esperanto) in constructs like: *ti stas pluvanta*  - it is raining.
-
-Adjectives precede the word they modifiy. If they follow the word they modify then the adjective gets the focus.
 
 4. *Affixes*
 
@@ -89,8 +87,6 @@ Existential verbs are expressed wit the *der ...* verb construction: *der estas 
 
 In Esperanto direction on adverbs is expressed with the *-n* ending. In Espo this is replaced with the *je* preposition: *mi iras je hejme*  - I go home.
 
-Adverbs follow the word they modifiy. If they precede the word they modify then the adverb gets the focus.
-
 9. *Correlatives*
 
 The interrogative correlatives (*kvi-*) are distinct from the relative correlatives (*ki-*).
@@ -128,9 +124,11 @@ Movement to an object is expressed with the *al* preposition (not with the accus
 Espo prefers foreign names (personal and geographical) to be retained in their (Romanized) native spelling, so as much as possible without diacritics.
 For geographical names of like continents and oceans, which are not limited to the language of one country, generalized Esp(erant)o-specific names can still be used. Examples: *Nord-Ameriko, Sud-Ameriko, Atlantiko, Arktiko, Eŭropo, Afriko, Antarktiko, Azio, Indioceano, Aŭstralio, Oceanio, Pacifiko*.
 
-15. *?*
+15. *Word order*
 
-?
+In common practice the word order is always Subject-Verb-Object (SVO). The subject is moved after the verb to put special emphasis on it. The object is moved before the verb to put special emphasis on it.
+
+Adjectives precede the word they modify. If they follow the word they modify then the adjective gets the focus. Adverbs precede the word they modify. If they follow the word they modify then the adverb gets the focus.
 
 16. *DLT*
 
